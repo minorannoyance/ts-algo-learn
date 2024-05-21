@@ -4,3 +4,6 @@ dist
 stats.json
 
 
+csharp/.vs
+csharp/PrimeService.Tests/obj
+csharp/PrimeService.Tests/bin
